@@ -1,0 +1,122 @@
+{
+  "BMW": {
+    "3 Series": { "engine": "2.0L Turbo", "hp": "184", "fuel": "Petrol" },
+    "5 Series": { "engine": "3.0L Turbo I6", "hp": "340", "fuel": "Petrol" },
+    "X5": { "engine": "3.0L Diesel", "hp": "286", "fuel": "Diesel" },
+    "i4": { "engine": "Electric dual motor", "hp": "340", "fuel": "Electric" }
+  },
+  "Mercedes-Benz": {
+    "C-Class": { "engine": "2.0L Turbo", "hp": "255", "fuel": "Petrol" },
+    "E-Class": { "engine": "2.0L Turbo", "hp": "197", "fuel": "Diesel" },
+    "GLE": { "engine": "3.0L Turbo I6", "hp": "367", "fuel": "Petrol" },
+    "EQE": { "engine": "Electric rear motor", "hp": "288", "fuel": "Electric" }
+  },
+  "Audi": {
+    "A4": { "engine": "2.0L TFSI", "hp": "190", "fuel": "Petrol" },
+    "Q5": { "engine": "2.0L TDI", "hp": "204", "fuel": "Diesel" },
+    "e-tron GT": { "engine": "Electric dual motor", "hp": "476", "fuel": "Electric" },
+    "RS6": { "engine": "4.0L V8 Twin-Turbo", "hp": "600", "fuel": "Petrol" }
+  },
+  "Volkswagen": {
+    "Golf": { "engine": "1.5L TSI", "hp": "150", "fuel": "Petrol" },
+    "Passat": { "engine": "2.0L TDI", "hp": "200", "fuel": "Diesel" },
+    "ID.4": { "engine": "Electric rear motor", "hp": "204", "fuel": "Electric" },
+    "Tiguan": { "engine": "2.0L TSI", "hp": "245", "fuel": "Petrol" }
+  },
+  "Toyota": {
+    "Corolla": { "engine": "1.8L Hybrid", "hp": "122", "fuel": "Hybrid" },
+    "RAV4": { "engine": "2.5L Hybrid", "hp": "222", "fuel": "Hybrid" },
+    "Camry": { "engine": "2.5L Hybrid", "hp": "218", "fuel": "Hybrid" },
+    "GR86": { "engine": "2.4L Boxer", "hp": "228", "fuel": "Petrol" }
+  },
+  "Honda": {
+    "Civic": { "engine": "1.5L Turbo", "hp": "182", "fuel": "Petrol" },
+    "CR-V": { "engine": "1.5L Turbo", "hp": "190", "fuel": "Petrol" },
+    "Accord": { "engine": "2.0L Hybrid", "hp": "204", "fuel": "Hybrid" },
+    "e:NS1": { "engine": "Electric front motor", "hp": "204", "fuel": "Electric" }
+  },
+  "Ford": {
+    "Focus": { "engine": "1.0L EcoBoost", "hp": "125", "fuel": "Petrol" },
+    "Mustang Mach-E": { "engine": "Electric dual motor", "hp": "346", "fuel": "Electric" },
+    "F-150": { "engine": "3.5L EcoBoost V6", "hp": "400", "fuel": "Petrol" },
+    "Puma": { "engine": "1.0L EcoBoost Hybrid", "hp": "155", "fuel": "Hybrid" }
+  },
+  "Chevrolet": {
+    "Silverado": { "engine": "5.3L V8", "hp": "355", "fuel": "Petrol" },
+    "Equinox": { "engine": "1.5L Turbo", "hp": "175", "fuel": "Petrol" },
+    "Camaro": { "engine": "6.2L V8", "hp": "455", "fuel": "Petrol" },
+    "Bolt EUV": { "engine": "Electric front motor", "hp": "200", "fuel": "Electric" }
+  },
+  "Hyundai": {
+    "i30": { "engine": "1.5L Turbo", "hp": "160", "fuel": "Petrol" },
+    "Tucson": { "engine": "1.6L Turbo Hybrid", "hp": "230", "fuel": "Hybrid" },
+    "Ioniq 5": { "engine": "Electric rear motor", "hp": "168", "fuel": "Electric" },
+    "Santa Fe": { "engine": "2.2L Diesel", "hp": "200", "fuel": "Diesel" }
+  },
+  "Kia": {
+    "Ceed": { "engine": "1.5L Turbo", "hp": "160", "fuel": "Petrol" },
+    "Sportage": { "engine": "1.6L Turbo Hybrid", "hp": "230", "fuel": "Hybrid" },
+    "EV6": { "engine": "Electric rear motor", "hp": "229", "fuel": "Electric" },
+    "Sorento": { "engine": "2.2L Diesel", "hp": "200", "fuel": "Diesel" }
+  },
+  "Nissan": {
+    "Qashqai": { "engine": "1.3L Hybrid", "hp": "158", "fuel": "Hybrid" },
+    "Leaf": { "engine": "Electric front motor", "hp": "160", "fuel": "Electric" },
+    "GT-R": { "engine": "3.8L V6 Twin-Turbo", "hp": "570", "fuel": "Petrol" },
+    "Navara": { "engine": "2.3L Diesel", "hp": "190", "fuel": "Diesel" }
+  },
+  "Mazda": {
+    "CX-5": { "engine": "2.5L Skyactiv-G", "hp": "194", "fuel": "Petrol" },
+    "MX-5": { "engine": "2.0L Skyactiv-G", "hp": "184", "fuel": "Petrol" },
+    "CX-60": { "engine": "2.5L PHEV", "hp": "327", "fuel": "Plug-in hybrid" },
+    "Mazda3": { "engine": "2.0L Skyactiv-X", "hp": "186", "fuel": "Petrol" }
+  },
+  "Subaru": {
+    "Outback": { "engine": "2.5L Boxer", "hp": "169", "fuel": "Petrol" },
+    "WRX": { "engine": "2.4L Turbo Boxer", "hp": "275", "fuel": "Petrol" },
+    "Forester": { "engine": "2.0L e-Boxer Hybrid", "hp": "150", "fuel": "Hybrid" },
+    "BRZ": { "engine": "2.4L Boxer", "hp": "228", "fuel": "Petrol" }
+  },
+  "Peugeot": {
+    "308": { "engine": "1.2L Turbo", "hp": "130", "fuel": "Petrol" },
+    "3008": { "engine": "1.6L Hybrid", "hp": "225", "fuel": "Hybrid" },
+    "e-208": { "engine": "Electric front motor", "hp": "156", "fuel": "Electric" },
+    "508": { "engine": "1.6L Plug-in Hybrid", "hp": "225", "fuel": "Plug-in hybrid" }
+  },
+  "Renault": {
+    "Clio": { "engine": "1.0L TCe", "hp": "90", "fuel": "Petrol" },
+    "Megane E-Tech": { "engine": "Electric front motor", "hp": "218", "fuel": "Electric" },
+    "Austral": { "engine": "1.2L Hybrid", "hp": "200", "fuel": "Hybrid" },
+    "Captur": { "engine": "1.6L E-Tech Hybrid", "hp": "145", "fuel": "Hybrid" }
+  },
+  "Fiat": {
+    "500": { "engine": "1.0L Hybrid", "hp": "70", "fuel": "Hybrid" },
+    "500e": { "engine": "Electric front motor", "hp": "118", "fuel": "Electric" },
+    "Tipo": { "engine": "1.0L Turbo", "hp": "100", "fuel": "Petrol" },
+    "Panda": { "engine": "1.0L FireFly Hybrid", "hp": "70", "fuel": "Hybrid" }
+  },
+  "Volvo": {
+    "XC60": { "engine": "2.0L T8 PHEV", "hp": "455", "fuel": "Plug-in hybrid" },
+    "EX30": { "engine": "Electric dual motor", "hp": "428", "fuel": "Electric" },
+    "V60": { "engine": "2.0L Diesel", "hp": "197", "fuel": "Diesel" },
+    "XC40": { "engine": "2.0L B4 Mild Hybrid", "hp": "197", "fuel": "Petrol" }
+  },
+  "Jaguar": {
+    "F-Pace": { "engine": "3.0L Turbo I6", "hp": "400", "fuel": "Petrol" },
+    "I-PACE": { "engine": "Electric dual motor", "hp": "400", "fuel": "Electric" },
+    "XE": { "engine": "2.0L Turbo", "hp": "250", "fuel": "Petrol" },
+    "F-Type": { "engine": "5.0L Supercharged V8", "hp": "450", "fuel": "Petrol" }
+  },
+  "Land Rover": {
+    "Defender": { "engine": "3.0L Turbo I6", "hp": "400", "fuel": "Petrol" },
+    "Range Rover Evoque": { "engine": "2.0L Mild Hybrid", "hp": "249", "fuel": "Petrol" },
+    "Discovery": { "engine": "3.0L Diesel", "hp": "249", "fuel": "Diesel" },
+    "Range Rover Sport": { "engine": "4.4L Twin-Turbo V8", "hp": "530", "fuel": "Petrol" }
+  },
+  "Tesla": {
+    "Model 3": { "engine": "Electric dual motor", "hp": "450", "fuel": "Electric" },
+    "Model Y": { "engine": "Electric dual motor", "hp": "384", "fuel": "Electric" },
+    "Model S": { "engine": "Electric tri motor", "hp": "1020", "fuel": "Electric" },
+    "Cybertruck": { "engine": "Electric tri motor", "hp": "845", "fuel": "Electric" }
+  }
+}
